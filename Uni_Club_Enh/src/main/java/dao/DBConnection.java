@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBConnection {
-    private static final String JDBC_URL = "jdbc:sqlserver://uniclubs.database.windows.net:1433;database=UniClubs;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;";
-    private static final String JDBC_USER = "uniclubs@uniclubs";
-    private static final String JDBC_PASSWORD = "lily@nne2004";
+    private static final String JDBC_URL = "enter your azure url";
+    private static final String JDBC_USER = "enter database username";
+    private static final String JDBC_PASSWORD = "enter password";
     
     static {
         try {
