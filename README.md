@@ -27,7 +27,7 @@ Uni\_Club\_Enh/ <br>
 └── build/<br>
 
 
----
+<br>
 
 ## 🪼 **Required JAR Libraries**
 Place these inside:  
@@ -43,7 +43,7 @@ src/main/webapp/WEB-INF/lib/
 - `jaxb-runtime-2.3.1.jar`
 - `mysql-connector-j-8.0.xx.jar`
 
----
+<br>
 
 ## 🪼 **How to Setup & Run Locally**
 
@@ -92,7 +92,7 @@ CREATE TABLE registrations (
 );
 ````
 
----
+<br>
 
 ### 🐬 **Database Connection (JDBC Config in `DBConnection.java`)**
 
@@ -102,7 +102,7 @@ private final String jdbcUsername = "root";
 private final String jdbcPassword = "your_password";
 ```
 
----
+<br>
 
 ### 🐬 **Run Locally**
 
@@ -114,7 +114,7 @@ private final String jdbcPassword = "your_password";
 2. Right-click Project → **Run on Server** → Apache Tomcat
 3. Visit: `http://localhost:8080/Uni_Club_Enh/`
 
----
+<br>
 
 ## 🪼 **Features**
 
@@ -125,7 +125,7 @@ private final String jdbcPassword = "your_password";
 * User Profile Management
 * Dashboard Overview
 
----
+<br>
 
 ## 🪼 **How it Works**
 
@@ -134,7 +134,7 @@ private final String jdbcPassword = "your_password";
 * JDBC connects to MySQL database
 * CSS for styling
 
----
+<br>
 
 ## 🪼 **Acknowledgements**
 
@@ -142,4 +142,13 @@ private final String jdbcPassword = "your_password";
 * MySQL
 * Java Servlet API
 * Eclipse IDE
+
+## 🪼 **Website Demo Preview**
+
+![Demo preview](assets/100106024.mp4.gif)
+
+
+---
+## **Author**
+Ananya P S
 
