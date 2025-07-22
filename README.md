@@ -145,8 +145,7 @@ private final String jdbcPassword = "your_password";
 
 ## 🪼 **Website Demo Preview**
 
-![Demo preview](assets/100106024.mp4.gif)
-
+![demo preview](assets/demovid.gif)
 
 ---
 ## **Author**
